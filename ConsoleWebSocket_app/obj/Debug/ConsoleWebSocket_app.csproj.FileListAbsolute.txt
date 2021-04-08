@@ -1,0 +1,14 @@
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\ConsoleWebSocket_app.exe.config
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\ConsoleWebSocket_app.exe
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\ConsoleWebSocket_app.pdb
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\WebServices.dll
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\websocket-sharp.dll
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\WebServices.pdb
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\WebServices.dll.config
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\obj\Debug\ConsoleWebSocket_app.csprojAssemblyReference.cache
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\obj\Debug\ConsoleWebSocket_app.csproj.CoreCompileInputs.cache
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\obj\Debug\ConsoleWebSocket_app.csproj.CopyComplete
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\obj\Debug\ConsoleWebSocket_app.exe
+C:\Users\EllectroBit\source\repos\SyxsenseTest\ConsoleWebSocket_app\obj\Debug\ConsoleWebSocket_app.pdb
